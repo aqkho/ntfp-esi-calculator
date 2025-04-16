@@ -46,7 +46,7 @@ base_esi = {
 }
 
 # Streamlit App
-st.title("NTFP Ergonomic Stress Calculator (BMI, Gender, Age, Terrain)")
+st.title("Research Project: NTFP Ergonomic Stress Calculator (BMI, Gender, Age, Terrain) by AQ")
 st.write("Estimate how physically stressful an NTFP load is based on your body and environmental factors")
 
 # User inputs
